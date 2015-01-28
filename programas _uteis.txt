@@ -1,0 +1,33 @@
+
+================= JETSTRAP ===========================
+Jetstrap.com
+
+Jetstrap - editor de código Bootstrap cria o layout e depois é só baixar o código
+
+
+======================== LAYOUTIT ==============================
+layoutit.com
+
+Ajuda a criar páginas com templates prontos que podem ser alterados.
+
+MUITO BOMMMM.
+
+
+========================= PINGENDO =================================
+
+pingendo pode ser baixado direto do site pingendo.com
+
+========== bootsnipp ===================
+
+bootsnipp.com/form
+
+- Cria formularios para bootstrap
+
+==================== DIVSHOT ==========================
+divshot.com
+
+Ele possibilita criar páginas em bootstrap e fundation
+
+
+
+
